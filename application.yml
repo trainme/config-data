@@ -1,3 +1,4 @@
+# Common configuration to all spring config clients
 ---
 eureka:
   client: 
